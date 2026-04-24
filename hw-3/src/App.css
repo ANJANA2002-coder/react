@@ -1,0 +1,14 @@
+ul {
+  list-style-type: square;
+  padding-left: 20px;
+}
+
+li {
+  margin: 5px 0;
+  font-size: 16px;
+}
+
+p {
+  font-weight: bold;
+  margin-top: 10px;
+}
