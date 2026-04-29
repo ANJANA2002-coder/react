@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import LightSwitch from "./child";   // file name is child.js
+import LightSwitch from "./child";   
 
 function Room() {
   const [isLightOn, setIsLightOn] = useState(false);
