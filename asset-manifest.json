@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/medical-store/static/css/main.6f4ce423.css",
+    "main.js": "/medical-store/static/js/main.80d12aff.js",
+    "static/js/453.5d540822.chunk.js": "/medical-store/static/js/453.5d540822.chunk.js",
+    "index.html": "/medical-store/index.html",
+    "main.6f4ce423.css.map": "/medical-store/static/css/main.6f4ce423.css.map",
+    "main.80d12aff.js.map": "/medical-store/static/js/main.80d12aff.js.map",
+    "453.5d540822.chunk.js.map": "/medical-store/static/js/453.5d540822.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f4ce423.css",
+    "static/js/main.80d12aff.js"
+  ]
+}
